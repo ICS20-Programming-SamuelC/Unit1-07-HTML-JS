@@ -2,18 +2,21 @@
  * Created on: Mar. 2022
  * This CSS file defines the style for index.html 
 */
-
+​
 body {
   background-color: OrangeRed;
 }
-
+​
 h1 {
-  background-color: rgb(255, 69, 0);
-  color: hsl(hsl(195, 100%, 50%));
+  background-color: rgb(124, 252, 0)​
+;
+  color: hsl(195, 100%, 50%));
   padding: 80px;
   text-align: center;
 }
-
+​
 p {
-  background-color: #7CFC00;
+  background-color: #FFFAFA​
+;
 }
+​
